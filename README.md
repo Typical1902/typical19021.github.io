@@ -1,4 +1,4 @@
-# [SHS Games](https://shsgames.github.io/)
+# [SHS Games](https://typical19021.github.io/)
 Collectively building an online game hub for the brave!
 
 ### Developer Checks
